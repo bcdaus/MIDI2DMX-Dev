@@ -1,0 +1,4 @@
+27.02.20
+
+Do we have a USB MIDI interface or stick with a hardware MIDI interface?
+Can we do a URAT INT on the 31.25kBaud MIDI input?
